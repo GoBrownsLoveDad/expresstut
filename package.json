@@ -1,0 +1,16 @@
+{
+  "name": "expresswork",
+  "version": "1.0.0",
+  "private": true,
+  "description": "refresher on express",
+  "main": "expressRefresh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "express-handlebars": "^3.0.0"
+  }
+}
